@@ -1,0 +1,14 @@
+C:\Users\Navya\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.exe
+C:\Users\Navya\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.deps.json
+C:\Users\Navya\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\Navya\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.dll
+C:\Users\Navya\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.pdb
+C:\Users\Navya\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Navya\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Navya\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\Navya\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Navya\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.dll
+C:\Users\Navya\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net10.0\refint\EmployeeManagementSystem.dll
+C:\Users\Navya\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.pdb
+C:\Users\Navya\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\Navya\Documents\DN5\EngineeringConcepts\Module 2 - Data Structures and Algorithms\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\net10.0\ref\EmployeeManagementSystem.dll
