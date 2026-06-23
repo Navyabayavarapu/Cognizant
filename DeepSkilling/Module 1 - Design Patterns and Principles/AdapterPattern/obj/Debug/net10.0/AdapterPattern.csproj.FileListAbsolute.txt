@@ -1,0 +1,14 @@
+C:\Users\Navya\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\AdapterPattern\AdapterPattern\bin\Debug\net10.0\AdapterPattern.exe
+C:\Users\Navya\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\AdapterPattern\AdapterPattern\bin\Debug\net10.0\AdapterPattern.deps.json
+C:\Users\Navya\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\AdapterPattern\AdapterPattern\bin\Debug\net10.0\AdapterPattern.runtimeconfig.json
+C:\Users\Navya\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\AdapterPattern\AdapterPattern\bin\Debug\net10.0\AdapterPattern.dll
+C:\Users\Navya\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\AdapterPattern\AdapterPattern\bin\Debug\net10.0\AdapterPattern.pdb
+C:\Users\Navya\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\AdapterPattern\AdapterPattern\obj\Debug\net10.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Navya\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\AdapterPattern\AdapterPattern\obj\Debug\net10.0\AdapterPattern.AssemblyInfoInputs.cache
+C:\Users\Navya\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\AdapterPattern\AdapterPattern\obj\Debug\net10.0\AdapterPattern.AssemblyInfo.cs
+C:\Users\Navya\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\AdapterPattern\AdapterPattern\obj\Debug\net10.0\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\Navya\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\AdapterPattern\AdapterPattern\obj\Debug\net10.0\AdapterPattern.dll
+C:\Users\Navya\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\AdapterPattern\AdapterPattern\obj\Debug\net10.0\refint\AdapterPattern.dll
+C:\Users\Navya\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\AdapterPattern\AdapterPattern\obj\Debug\net10.0\AdapterPattern.pdb
+C:\Users\Navya\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\AdapterPattern\AdapterPattern\obj\Debug\net10.0\AdapterPattern.genruntimeconfig.cache
+C:\Users\Navya\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\AdapterPattern\AdapterPattern\obj\Debug\net10.0\ref\AdapterPattern.dll
